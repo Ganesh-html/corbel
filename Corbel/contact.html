@@ -1,0 +1,113 @@
+<html>
+	<head>
+		<meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+		<title>Corbel Design</title>
+		<link rel="stylesheet" href="contact.css">
+		<link rel"stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+		<script src="https://kit.fontawesome.com/f99f4056b9.js"></script>
+	</head>
+	<body>
+	<section class="header">
+			<nav>
+				<a href = "index.html"><img src = "logo.png" alt="Corbal Designs" class="logo"></a>
+				<div class= "nav-links" id="navLinks">
+				<i class="fas fa-times" onclick="hideMenu()"></i>
+					<ul>
+						<li><a href = "index.html">HOME</a></li>
+						<li><a href = "AboutUs.html">ABOUT US</a></li>
+						<li><a href = "service.html">SERVICES</a></li>
+						<li><a href = "project.html">PROJECTS</a></li>
+						<li><a href = "contact.html">CONTACT US</a></li>
+						<li><a href = "Login.php">LOGIN</a></li>
+					</ul>
+				</div>
+				<!---<i class="fas fa-bars" onclick="showMenu()"></i>-->
+				<i class="fa-solid fa-bars" onclick="showMenu()"></i>
+			</nav>
+	</section>
+	
+	<div class="Space"></div>
+	
+	<section class="row">
+		<div class="info">
+			<h3><i class="fa-solid fa-location-dot"></i></h3><br>
+			<h4>Rajshree Plaza, Lal Bahadur Shastri Rd, opposite Shreyas Cinema Road, Ghatkopar West, Mumbai, Maharashtra 400086</h4>
+		</div>
+		
+		<div class="info">
+		<h3><i class="fa-solid fa-phone"></i></h3><br>
+		<h4>+91-8108733635 / 9702002403</h4>
+		</div>
+		
+		<div class="info">
+		<h3><i class="fa-regular fa-envelope"></i></h3><br>
+		<a href="mailto:kharatmolganesh89@gmail.com"> <h4>imran@corbeldesigns.in </a>/ nishu@corbeldesigns.in</h4>
+		</div>
+	</section>
+	<div class="Space"></div>
+	<section class="frm1">
+	<form>
+	<div class="form_content">
+			<div class = "login-form">
+				<!--<div class = "title">Login</div>-->
+					<div class = "input-boxes">
+		<div class = "input-box">
+						<input type="text" placeholder="Enter your Name">
+						</div>
+						<div class = "input-box">
+						<input type="tel" placeholder="Enter your phone number">
+						</div>
+						<div class = "input-box">
+						<input type="email" placeholder="Enter your mail">
+						</div>
+						<div class = "input-box">
+						<textarea rows="5" cols="50" name="textarea" placeholder="Comment"></textarea>
+						</div>
+						<div class = "button input-box">
+						<input type="submit" value="Submit">
+						</div>
+					</div>
+				</div>
+			</div>	
+	</form>
+	</section>
+	<section class="map">
+			<h3>HOW TO FIND US
+			</h3><br>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d267.6245902706755!2d72.91167860207695!3d19.094147847080265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c7ce090c2c0b%3A0xc12eb63fc1e73af3!2sShreyas%20Cinema%20Rd%2C%20Ghatkopar%20West%2C%20Mumbai%2C%20Maharashtra%20400086!5e0!3m2!1sen!2sin!4v1660575829325!5m2!1sen!2sin" width="100%" height="70%" style="border:0;" allowfullscreen="" loading="lazy" >
+			</iframe>
+	</section>
+	<!--<div class="m1">
+			<h1>hello</h1>
+			<br>
+			<br>
+			<h4>Contact Us</h4><br>
+			<form name="frm1" method="POST" action="form.php">
+			First Name:<input type="text" name="txtfname" id="txt1" placeholder="First name" onblur="vfname();">
+			<form>
+		</div>-->
+	
+	<section class="footer">
+			<div class="split">
+				<h2>ABOUT US</h2>
+				<p>Corbel Designs Pvt Ltd is a dynamic and modern firm in the field of architecture and interior designing services.
+				We are committed to creative design giving proper attention to quality.</p>
+			</div>
+			<div class="split">
+				<h2>CONTACT INFO</h2>
+				<p>Corbel Designs Pvt Ltd is a dynamic and modern firm in the field of architecture and interior designing services.
+				We are committed to creative design giving proper attention to quality.</p>
+			</div>
+		</section>
+	<script>
+		var navLinks = document.getElementById("navLinks");
+		function showMenu(){
+			navLinks.style.right = "0";
+		}
+		function hideMenu(){
+			navLinks.style.right = "-200px";
+		}
+		</script>
+	</body>
+</html>	

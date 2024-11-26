@@ -1,0 +1,115 @@
+<html>
+	<head>
+		<meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+		<title>Corbel Design</title>
+		<link rel="stylesheet" href="style.css">
+		<link rel"stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+		<script src="https://kit.fontawesome.com/f99f4056b9.js"></script>
+	</head>
+	<body>
+		<section class="header">
+			<nav>
+				<a href = "index.html"><img src = "logo.png" alt="Corbel Designs" class="logo"></a>
+				<div class= "nav-links" id="navLinks">
+				<i class="fas fa-times" onclick="hideMenu()"></i>
+					<ul>
+						<li><a href = "index.html">HOME</a></li>
+						<li><a href = "AboutUs.html">ABOUT US</a></li>
+						<li><a href = "service.html">SERVICES</a></li>
+						<li><a href = "project.html">PROJECTS</a></li>
+						<li><a href = "contact.html">CONTACT US</a></li>
+						<li><a href = "Login.php">LOGIN</a></li>
+					</ul>
+				</div>
+				<i class="fa-solid fa-bars" onclick="showMenu()"></i>
+			</nav>
+			<div class="text-box">
+				<h1>Welcome to Corbel Design</h1>
+				<p>We Make everything for You</p>
+				<a href="" class="home-btn">Visit us to know more</a>
+			</div>
+		</section>
+		
+<!----------------------------------------------------------Home-about--------------------------------------------->
+		<section class="Home-about">
+			<h1>ABOUT US</h1>
+			<p style="color:black">Corbel Designs Pvt Ltd is a dynamic and modern firm in the field of architecture and interior designing services. 
+				We are design and build consultancy specializes in workplace design. 
+				We are committed to creative design giving proper attention to quality 
+				With an in-house team of designers, project managers MEP consultants working dedicatively on every single project. 
+				We are expertise in space planning, design management, procuring materials with quality supervision. 
+				Our major aim is to focus on quality with timely delivery of project. Carbo Designs Pvt Ltd provides all services for ‘Design Build’ under one roof.
+			</p>	
+			<div class="row">
+				<div class="project">
+					<h3>PROJECT MANAGEMENT</h3>
+					<p style="color:black">Project management is the discipline of initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals
+					and meet specific success criteria. All  Projects are professionally design manage with experienced team.</p>
+				</div>
+				<div class="project">
+					<h3>QUALITY CONTROL</h3>
+					<p style="color:black">Corbel Designs applies a rigorous quality control discipline to their activities.<br><br>
+					Projects are also administered and managed in accordance with these requirements. Monitoring or the Quality System will be undertaken by the Quality Department.</p>
+				</div>
+				<div class="project">
+					<h3>COST MANAGEMENT</h3>
+					<p style="color:black">Cost management is the process of planning and controlling the budget of a business. 
+					Cost management is a form of accounting that allows a business to predict impending expenditures to help reduce the chance of going over budget.</p>
+				</div>
+			</div>
+		</section>
+<!-------------------------------------------------------------------------------What we offer-------------------------------------------------------------------------------------------->
+		<section class="offer">
+			<h1>What we offer</h1>
+			<div class="row">
+				<div class="offer-img">
+					<img src="planning.gif">
+					<div class="layer">
+						<h3>DESIGN AND PLANNING</h3>
+						<p>Corbel Designs creates design concepts that perform as business solutions for our Clients.<p>
+					</div>
+				</div>
+				<div class="offer-img">
+					<img src="mep.gif">
+					<div class="layer">
+						<h3>MEP SERVICES</h3>
+						<P>Corbel Designs Mechanical and Electrical Engineers excel in designing Energy efficient and Environment friendly system design.</P>
+					</div>
+				</div>
+				<div class="offer-img">
+					<img src="time.jpg">
+					<div class="layer">
+						<h3>ON TIME DELIVERY</h3>
+						<p>100% On Time Delivery that save your time.</p>
+					</div>
+				</div>
+				
+			</div>
+		</section>
+
+<!-----------------------------------footer---------------------------------------------->
+		<section class="footer">
+			<div class="split">
+				<h2>ABOUT US</h2>
+				<p>Corbel Designs Pvt Ltd is a dynamic and modern firm in the field of architecture and interior designing services.
+				We are committed to creative design giving proper attention to quality.</p>
+			</div>
+			<div class="split">
+				<h2>CONTACT INFO</h2>
+				<p>Corbel Designs Pvt Ltd is a dynamic and modern firm in the field of architecture and interior designing services.
+				We are committed to creative design giving proper attention to quality.</p>
+			</div>
+		</section>
+<!-------------javascript for menu---------->
+		<script>
+		var navLinks = document.getElementById("navLinks");
+		function showMenu(){
+			navLinks.style.right = "0";
+		}
+		function hideMenu(){
+			navLinks.style.right = "-200px";
+		}
+		</script>
+	</body>
+</html>

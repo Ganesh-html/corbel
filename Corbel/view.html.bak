@@ -1,0 +1,60 @@
+<html>
+<head><title>Quotation</title>
+<style>
+table{
+	background:white;
+}
+</style>
+</head>
+
+
+<?php
+@include 'config.php';
+error_reporting(0);
+$query="SELECT * FROM quotation";
+$data = mysqli_query($conn,$query);
+
+$total = mysqli_num_rows($data);
+
+
+echo $result['email']."".$result['Q_Name']."".$result['Quotation']."".$result['Cost'];
+
+
+//echo $total;
+
+if($total != 0)
+{
+	?>
+	<body bgcolor="D071f9">
+	<h2 align="center"><mark>Your Estimated Quotation</mark></h2>
+	<center>
+	<table border="3" cellspacing="7" width="80%" background="red">
+		<tr>
+		<th width="10%">email</th>
+		<th width="10%">Q_name</th>
+		<th width="10%">Quotation</th>
+		<th width="40%">Cost</th>
+		</tr>
+	
+	<?php
+	while($result = mysqli_fetch_assoc($data))
+	{
+		echo"<tr>
+				<td>".$result['mail']."</td>
+				<td>".$result['A_Name']."</td>
+				<td>".$result['A_Size']."</td>
+				<td>".$result['Description']."</td>
+				<td>".$result['budget']."</td>
+		</tr>";
+
+	}
+}
+else
+{
+	echo"No records found";
+}
+?>
+<table>
+</center>
+</body>
+</html>

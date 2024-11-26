@@ -1,0 +1,505 @@
+<html>
+	<head>
+		<meta name = "viewport" content = "with=device-width, initial-scale=1.0">
+		<title>Corbel Design</title>
+		<link rel="stylesheet" href="project.css">
+		<link rel"stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		
+		
+		<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+		<script src="https://kit.fontawesome.com/f99f4056b9.js"></script>
+	</head>
+	
+	<body>
+	<section class="header">
+			<nav>
+				<a href = "index.html"><img src = "logo.png" alt="Corbal Designs" class="logo"></a>
+				<div class= "nav-links" id="navLinks">
+				<i class="fas fa-times" onclick="hideMenu()"></i>
+					<ul>
+						<li><a href = "index.html">HOME</a></li>
+						<li><a href = "AboutUs.html">ABOUT US</a></li>
+						<li><a href = "service.html">SERVICES</a></li>
+						<li><a href = "project.html">PROJECTS</a></li>
+						<li><a href = "contact.html">CONTACT US</a></li>
+						<li><a href = "Login.php">LOGIN</a></li>
+					</ul>
+				</div>
+				<i class="fa-solid fa-bars" onclick="showMenu()"></i>
+			</nav>
+	</section>
+	<div class="wpb_wrapper">
+			<h1 style="text-align: center;"><span style="color: #000000;"><strong>Explore Our Projects</strong></span></h1>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3 class="section-subtitle" style="text-align: center;"><span style="color: #000000;">Checkout the latest work by Corbel Designs</span></h3>
+
+		</div>
+	</div>
+	<!-- Element: OT Line solid --> 	 
+	<div class=" separator"><span><i class="fa fa-circle"></i></span></div>
+	<div class="spacer-single"></div>	      
+<div id="advanced-tabs-desc-wrap-1948" class="ult_tabs " style=" " data-tabsstyle="style3"
+ data-titlebg="#1bafb5" data-titlecolor="#ffffff" data-fullheight="off"
+ data-titlehoverbg="#000000" data-titlehovercolor="#ffffff"
+ data-rotatetabs="0" data-responsivemode="Both" data-animation="Slide"
+data-activetitle="#ffffff" data-activeicon="" data-activebg="#1bafb5"  data-respmode="Tabs" data-respwidth="400" data-scroll = "on" data-activeindex="1"><ul id=advanced-tabs-wrap-2400 class="ult_tabmenu style3 " style=""><li class="ult_tab_li   " data-iconcolor="#74777b" data-iconhover="#ffffff" style="background-color:#1bafb5;border-color:transparent;border-width:0px;border-style:solid;border-top-right-radius:8px;">
+					<a href="#1550041120700-2-7" id="1550041120700-2-7" style="color:#ffffff;;  " class="ult_a ">
+					   <span class="ult_tab_main  Both ">
+					    <span class="ult_tab_section">
+					  		<span  data-ultimate-target='#advanced-tabs-wrap-2400 .ult-span-text'  data-responsive-json-new='{"font-size":"desktop:17px;","line-height":""}'  class="ult-span-text ult-responsive" style="font-weight:bold;">OUR LATEST PROJECT</span>
+						   	<span class="aio-icon none ult_tab_iconright" style="color:#74777b;font-size:15px;">
+						   	<i class="   ult_tab_icon"  ></i>
+						   </span>
+						</span>
+					   </span>
+
+					</a>
+					</li></ul><div  data-ultimate-target='#advanced-tabs-desc-wrap-1948 .ult_tabcontent .ult_tab_min_contain  p'  data-responsive-json-new='{"font-size":"","line-height":""}' class="ult_tabcontent ult-responsive style3" style="color:#74777b;"><div class="ult_tab_min_contain " >
+			<div  class="ult_tabitemname"  >
+				<div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g1-1.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g1-1.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g1-1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g1" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Lobby Area, Under(A-One Interior) @ Ambience Tower,  Gurgaon</span></h4>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/s5.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/s5.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/s5-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="s5" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Full Interior @ Ivory Hospital</span></h4>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g3-2.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g3-2.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g3-2-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g3" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Banquet &amp; Lobby Area Under(Scoop Brand Holding) @ J.W.Marriot, Jaipur</span></h4>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/s7.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/s7.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/s7-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="s7" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Full Interior, Under(Sahf creation) @ Taj Viventa,  </span><span style="color: #000000;">Dwarka sector-21</span></h4>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g4-2.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g4-2.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g4-2-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g4" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Interior Decoration(5th to 12th floor) @ Leela Hotel Shahdara, Delhi</span></h4>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/s6.png" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/s6.png 600w, http://timesinteriors.org/wp-content/uploads/2019/04/s6-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="s6" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Full Interior, Under(Scoop Brand Holding) @ Sudha cinema, Hydrabad</span></h4>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g8-1.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g8-1.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g8-1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g8" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Lobby Area, Under(Scoop Brand Holding) @ Grand Venis mall Greater Noida</span></h4>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/s8.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/s8.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/s8-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="s8" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Complete Turnkey Office Interior, Under(Casa Decor) @ D.S.Group Noida Sector-67</span></h4>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+
+			</div></div></div></div><div class="ult_acord advanced-tabs-desc-wrap-1948">
+   <div class="ult-tabto-accordion " style="width:;"
+    data-titlecolor="#ffffff"  data-titlebg="#1bafb5"
+     data-titlehoverbg="#000000" data-titlehovercolor="#ffffff" data-animation="Slide"
+     data-activetitle="#ffffff" data-activeicon="" data-activebg="#1bafb5" data-scroll = "on" data-activeindex="1" >
+     <dl><dt class="">
+        	<a class="ult-tabto-actitle withBorder ult_a" id="1550041120700-2-7" style="color:#ffffff;;background-color:#1bafb5;border-bottom-color:transparent;border-bottom-width:0px;border-bottom-style:solid;" href="#1550041120700-2-7">
+        		<i class="accordion-icon"></i>
+        			<span class="ult_tab_main ult_ac_mainBoth">
+					   <span  data-ultimate-target='#advanced-tabs-wrap-2400 .ult-span-text'  data-responsive-json-new='{"font-size":"desktop:17px;","line-height":""}'  class="ult-span-text ult_acordian-text ult-responsive" style="font-weight:bold;;color:inherit " >OUR LATEST PROJECT</span>
+					</span>
+					   <div class="aio-icon none " style="color:#74777b;font-size:15px;" data-iconcolor="#74777b" data-iconhover="#ffffff">
+					   <i class="    ult_tab_icon"  ></i>
+					   </div>
+					</a></dt>
+            		<dd class="ult-tabto-accordionItem ult-tabto-accolapsed">
+			            <div class="ult-tabto-acontent" style="color:#74777b;">
+			               <div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g1-1.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g1-1.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g1-1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g1" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Lobby Area, Under(A-One Interior) @ Ambience Tower,  Gurgaon</span></h4>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/s5.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/s5.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/s5-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="s5" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Full Interior @ Ivory Hospital</span></h4>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g3-2.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g3-2.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g3-2-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g3" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Banquet &amp; Lobby Area Under(Scoop Brand Holding) @ J.W.Marriot, Jaipur</span></h4>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/s7.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/s7.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/s7-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="s7" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Full Interior, Under(Sahf creation) @ Taj Viventa,  </span><span style="color: #000000;">Dwarka sector-21</span></h4>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g4-2.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g4-2.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g4-2-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g4" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Interior Decoration(5th to 12th floor) @ Leela Hotel Shahdara, Delhi</span></h4>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/s6.png" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/s6.png 600w, http://timesinteriors.org/wp-content/uploads/2019/04/s6-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="s6" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Full Interior, Under(Scoop Brand Holding) @ Sudha cinema, Hydrabad</span></h4>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g8-1.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g8-1.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g8-1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g8" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Lobby Area, Under(Scoop Brand Holding) @ Grand Venis mall Greater Noida</span></h4>
+
+		</div>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/s8.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/s8.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/s8-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="s8" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h4><span style="color: #000000;">Complete Turnkey Office Interior, Under(Casa Decor) @ D.S.Group Noida Sector-67</span></h4>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+
+			            </div>
+        	</dd>
+    	</dl>
+    <!--<div class="extraborder" style="background-color:#000000"></div>-->
+</div>
+
+</div></div></div></div></div></section><section class="wpb_row vc_row-fluid no-padding"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper "  ><div class="vc_empty_space"   style="height: 50px" ><span class="vc_empty_space_inner"></span></div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h1 style="text-align: center;"><span style="color: #000000;"><strong>Explore Our Projects</strong></span></h1>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3 class="section-subtitle" style="text-align: center;"><span style="color: #000000;">Checkout the latest work by TIMES Design</span></h3>
+
+		</div>
+	</div>
+	<!-- Element: OT Line solid --> 	 
+	<div class=" separator"><span><i class="fa fa-circle"></i></span></div>
+	<div class="spacer-single"></div>	      
+<div id="advanced-tabs-desc-wrap-7560" class="ult_tabs " style=" " data-tabsstyle="style3"
+ data-titlebg="#000000" data-titlecolor="#ffffff" data-fullheight="off"
+ data-titlehoverbg="#000000" data-titlehovercolor="#ffffff"
+ data-rotatetabs="0" data-responsivemode="Both" data-animation="Slide"
+data-activetitle="#ffffff" data-activeicon="" data-activebg="#1bafb5"  data-respmode="Tabs" data-respwidth="400" data-scroll = "on" data-activeindex="1"><ul id=advanced-tabs-wrap-2343 class="ult_tabmenu style3 " style=""><li class="ult_tab_li   " data-iconcolor="#74777b" data-iconhover="#ffffff" style="background-color:#000000;border-color:transparent;border-width:0px;border-style:solid;border-top-right-radius:8px;">
+					<a href="#1554807224824-3" id="1554807224824-3" style="color:#ffffff;;  " class="ult_a ">
+					   <span class="ult_tab_main  Both ">
+					    <span class="ult_tab_section">
+					  		<span  data-ultimate-target='#advanced-tabs-wrap-2343 .ult-span-text'  data-responsive-json-new='{"font-size":"desktop:17px;","line-height":""}'  class="ult-span-text ult-responsive" style="font-weight:bold;">OUR PROJECTS</span>
+						   	<span class="aio-icon none ult_tab_iconright" style="color:#74777b;font-size:15px;">
+						   	<i class="   ult_tab_icon"  ></i>
+						   </span>
+						</span>
+					   </span>
+
+					</a>
+					</li></ul><div  data-ultimate-target='#advanced-tabs-desc-wrap-7560 .ult_tabcontent .ult_tab_min_contain  p'  data-responsive-json-new='{"font-size":"","line-height":""}' class="ult_tabcontent ult-responsive style3" style="color:#74777b;"><div class="ult_tab_min_contain " >
+			<div  class="ult_tabitemname"  >
+				<div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g1.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g1.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g1" /></div>
+		</figure>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g5.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g5.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g5-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g5" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g2.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g2.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g2-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g2" /></div>
+		</figure>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g6.png" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g6.png 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g6-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="g6" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g3-1.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g3-1.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g3-1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g3" /></div>
+		</figure>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g7-1.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g7-1.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g7-1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g7" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g4-1.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g4-1.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g4-1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g4" /></div>
+		</figure>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g8.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g8.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g8-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g8" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+
+			</div></div></div></div><div class="ult_acord advanced-tabs-desc-wrap-7560">
+   <div class="ult-tabto-accordion " style="width:;"
+    data-titlecolor="#ffffff"  data-titlebg="#000000"
+     data-titlehoverbg="#000000" data-titlehovercolor="#ffffff" data-animation="Slide"
+     data-activetitle="#ffffff" data-activeicon="" data-activebg="#1bafb5" data-scroll = "on" data-activeindex="1" >
+     <dl><dt class="">
+        	<a class="ult-tabto-actitle withBorder ult_a" id="1554807224824-3" style="color:#ffffff;;background-color:#000000;border-bottom-color:transparent;border-bottom-width:0px;border-bottom-style:solid;" href="#1554807224824-3">
+        		<i class="accordion-icon"></i>
+        			<span class="ult_tab_main ult_ac_mainBoth">
+					   <span  data-ultimate-target='#advanced-tabs-wrap-2343 .ult-span-text'  data-responsive-json-new='{"font-size":"desktop:17px;","line-height":""}'  class="ult-span-text ult_acordian-text ult-responsive" style="font-weight:bold;;color:inherit " >OUR PROJECTS</span>
+					</span>
+					   <div class="aio-icon none " style="color:#74777b;font-size:15px;" data-iconcolor="#74777b" data-iconhover="#ffffff">
+					   <i class="    ult_tab_icon"  ></i>
+					   </div>
+					</a></dt>
+            		<dd class="ult-tabto-accordionItem ult-tabto-accolapsed">
+			            <div class="ult-tabto-acontent" style="color:#74777b;">
+			               <div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g1.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g1.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g1" /></div>
+		</figure>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g5.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g5.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g5-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g5" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g2.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g2.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g2-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g2" /></div>
+		</figure>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g6.png" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g6.png 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g6-300x200.png 300w" sizes="(max-width: 600px) 100vw, 600px" title="g6" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g3-1.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g3-1.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g3-1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g3" /></div>
+		</figure>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g7-1.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g7-1.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g7-1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g7" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "  >
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g4-1.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g4-1.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g4-1-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g4" /></div>
+		</figure>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="400" src="http://timesinteriors.org/wp-content/uploads/2019/04/g8.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://timesinteriors.org/wp-content/uploads/2019/04/g8.jpg 600w, http://timesinteriors.org/wp-content/uploads/2019/04/g8-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" title="g8" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+
+			            </div>
+        	</dd>
+    	</dl>
+    <!--<div class="extraborder" style="background-color:#000000"></div>-->
+</div>
+
+</div></div></div></div></div></section>
+<script>
+		var navLinks = document.getElementById("navLinks");
+		function showMenu(){
+			navLinks.style.right = "0";
+		}
+		function hideMenu(){
+			navLinks.style.right = "-200px";
+		}
+		</script>
+	</body>
+</html>

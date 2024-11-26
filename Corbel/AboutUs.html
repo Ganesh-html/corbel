@@ -1,0 +1,77 @@
+<html>
+	<head>
+		<meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+		<title>Corbel Design</title>
+		<link rel="stylesheet" href="about.css">
+		<link rel"stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+		<script src="https://kit.fontawesome.com/f99f4056b9.js"></script>
+	</head>
+	<body>
+	<section class="header">
+			<nav>
+				<a href = "index.html"><img src = "logo.png" alt="Corbal Designs" class="logo"></a>
+				<div class= "nav-links" id="navLinks">
+				<i class="fas fa-times" onclick="hideMenu()"></i>
+					<ul>
+						<li><a href = "index.html">HOME</a></li>
+						<li><a href = "AboutUs.html">ABOUT US</a></li>
+						<li><a href = "service.html">SERVICES</a></li>
+						<li><a href = "project.html">PROJECTS</a></li>
+						<li><a href = "contact.html">CONTACT US</a></li>
+						<li><a href = "Login.php">LOGIN</a></li>
+					</ul>
+				</div>
+				<i class="fa-solid fa-bars" onclick="showMenu()"></i>
+			</nav>
+	</section>
+	<section>
+		<div class="abt_d1">
+			<h3>We are a team of professional Interior Designing..!</h3>
+		</div>
+		<div class="abt_d2">
+			<p style="color:black;">Corbel Designs Pvt Ltd is a dynamic and modern firm in the field of architecture and interior designing services. We are design and build consultancy specializes in workplace design.
+			We are committed to creative design giving proper attention to quality. With an in-house team of designers, project managers MEP consultants working dedicatively on every single project. 
+			We are expertise in space planning, design management, procuring materials with quality supervision.
+			Our major aim is to focus on quality with timely delivery of project. Corbel Designs Pvt Ltd provides all services for ‘Design Build’ under one roof.</p>
+		</div>
+	</section>
+	<section class="info">
+		<div class="mid">
+			<h1>VISION</h1><br>
+			<p>Corbel Designs Pvt Ltd  believes good design is produces from careful study and research. Attention to detail, proportion</p>
+			<p>and scale together, with ensure of finished product fully develop the potential within the concept. Aetrio Designs</p>
+			<p>offers integrated design source for the built environment, interior lighting, furniture design and space design.</p>
+		</div>
+		<br>
+		<div class="mid">
+			<h1>MISSION</h1><br>
+			<p>Corbel Designs Pvt Ltd will complete all your thoughts as our goal of achievement and also to create a world class design and build.</p>
+		</div>
+	</section>
+	<hr>
+<!--------------------------------------------------footer--------------------------------------------------------------------------->	
+	<section class="footer">
+		<div class="split">
+			<h2>ABOUT US</h2>
+			<p>Corbel Designs Pvt Ltd is a dynamic and modern firm in the field of architecture and interior designing services.
+				We are committed to creative design giving proper attention to quality.</p>
+		</div>
+		<div class="split">
+			<h2>CONTACT INFO</h2>
+			<p>Corbel Designs Pvt Ltd is a dynamic and modern firm in the field of architecture and interior designing services.
+				We are committed to creative design giving proper attention to quality.</p>
+		</div>
+	</section>
+<!-------------------------------------------javascript for menu---------------------------------------------------------------->
+	<script>
+		var navLinks = document.getElementById("navLinks");
+		function showMenu(){
+			navLinks.style.right = "0";
+		}
+		function hideMenu(){
+			navLinks.style.right = "-200px";
+		}
+		</script>
+	</body>
+</html>

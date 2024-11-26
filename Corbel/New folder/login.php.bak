@@ -1,0 +1,22 @@
+<?php
+    $txtfname=$_REQUEST["txtfname"];
+    $txtlname=$_REQUEST["txtlname"];
+    $txtmail=$_REQUEST["txtmail"];
+    $txtpass=$_REQUEST["txtpass"];
+    $txtphone=$_REQUEST["txtphone"];
+    $txtaddress=$_REQUEST["txtaddress"];
+
+    $conn = mysqli_connect("localhost:3307", "root", "", "form");
+    if (!$conn)
+        die ("Connection failed :" .mysqli_connect_error());
+
+    $sql = "INSERT INTO registration(Fname,Lname,MAIL,Pass,Phone,Address)
+            VALUES('$txtfname','$txtlname','$txtmail','$txtpass','$txtphone','txtaddress')";
+
+    if (mysqli_query($conn ,$sql))
+    	echo "New record created succesfully ";
+    else 
+        echo "Error :" .$sql. "<br>" .mysqli_error($conn);
+
+    mysqli_close($conn);
+?>
